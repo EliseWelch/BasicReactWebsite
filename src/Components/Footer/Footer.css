@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+ }
+ 
+ .footer-line {
+     margin-left: 3%;
+     margin-right: 3%;
+     font-size: 20px;
+ }
+ 
+ .footer-list {
+     display: flex;
+     list-style-type: none;
+     padding-inline-start: 0px;
+ }
+ 
+ .footer-item {
+    margin-right: 8%;
+ }
+ 
+ .footer-item a {
+     text-decoration: none;
+     color: black;
+ }
+
+ 
